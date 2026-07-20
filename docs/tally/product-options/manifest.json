@@ -1,0 +1,37 @@
+[
+  {
+    "label": "Desk Stand",
+    "file": "desk-stand.webp",
+    "source": "1.webp"
+  },
+  {
+    "label": "Bag Charm",
+    "file": "bag-charm.webp",
+    "source": "2.webp"
+  },
+  {
+    "label": "Bedside Dock",
+    "file": "bedside-dock.webp",
+    "source": "3.webp"
+  },
+  {
+    "label": "Charging Base",
+    "file": "charging-base.webp",
+    "source": "4.webp"
+  },
+  {
+    "label": "Crossbody Strap",
+    "file": "crossbody-strap.webp",
+    "source": "5.webp"
+  },
+  {
+    "label": "Neck Lanyard",
+    "file": "neck-lanyard.webp",
+    "source": "6.webp"
+  },
+  {
+    "label": "Gift Packaging",
+    "file": "gift-packaging.webp",
+    "source": "7.webp"
+  }
+]
